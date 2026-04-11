@@ -1,0 +1,7 @@
+
+SOC FORENSIC INVESTIGATION REPORT
+---------------------------------
+
+Files analysed: 2
+Alerts detected: 3
+Risk level: HIGH

@@ -1,0 +1,2 @@
+OneDrive = C:\Program Files\Microsoft\OneDrive\OneDrive.exe
+Updater = C:\Users\User\AppData\Temp\evil.exe
